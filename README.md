@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Rodr-dre
+- 👀 I’m new on the code world, so please help me to get better
+- 🌱 Now I’m learning JavaScript, and i want to be a front-end developer
